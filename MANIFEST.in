@@ -1,0 +1,1 @@
+recursive-include qr_stego/data *.yaml
